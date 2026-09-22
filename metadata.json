@@ -1,0 +1,6 @@
+{
+  "name": "Virtuoso - Piano Web Audio API de 4 Octavas",
+  "description": "Piano y sintetizador musical interactivo de 4 octavas completo con Web Audio API, soporte multitáctil, mapeo de teclado físico, osciloscopio en tiempo real y envolventes ADSR.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
